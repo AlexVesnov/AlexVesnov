@@ -12,6 +12,6 @@ with sqlite3.connect("saper.db") as connection:
 		score INTEGER)""")
 
 # connection.close()
-
+# some comment
 
 
