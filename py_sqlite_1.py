@@ -13,5 +13,6 @@ with sqlite3.connect("saper.db") as connection:
 
 # connection.close()
 # some comment
+# another consistent comment
 
 
